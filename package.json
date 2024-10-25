@@ -16,7 +16,7 @@
   "dependencies": {
     "@actions/artifact": "^1.1.2",
     "@actions/core": "^1.10.0",
-    "axios": "^1.6.4",
+    "axios": "^1.7.4",
     "codecov": "^3.8.3",
     "deep-object-diff": "^1.1.9",
     "lodash": "^4.17.21"
